@@ -1,0 +1,2 @@
+# lanqiao_python
+备战蓝桥杯python组，主要是leetcode一些题目和acwing部分题目，冲刺省一和省二
